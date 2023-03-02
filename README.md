@@ -1,4 +1,4 @@
-# Gigabyte-B460M-DS3H-V2
+# Gigabyte-B460M-DS3H-V2 Hackintosh
 
 OpenCore based EFI for Gigabyte B460M-DS3H V2
 
